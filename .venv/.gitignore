@@ -1,0 +1,142 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swn
+*.swn
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+*.mo
+*.pot
+poetry.lock
+
+# Sphinx documentation
+docs/_build/
+target/
+
+# Local configuration files
+*.local
+*.log
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data and model files
+data/
+models/
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.csv
+
+# DVC specific files
+.dvc/
+*.dvc
+.cache
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.swp
+*.swo
+*.swn
+
+# Build directories
+build/
+dist/
+
+# Packaging artifacts
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing artifacts
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.pytest_cache/v/cache/
+
+# C extensions
+*.so
