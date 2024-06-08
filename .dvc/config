@@ -1,4 +1,6 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://imdb-dataset-bucket/aclImdb
+    url = s3://imdb-dataset-bucket
+    access_key_id = AKIAT7ECRPT3BQ7ZLPHO
+    secret_access_key = 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
